@@ -20,7 +20,7 @@ const translations = {
         stats_title: 'إحصائيات الحسابات', stats_sub: 'أرقام منصاتي على التواصل الاجتماعي',
         contact_title: 'تواصل معي', contact_sub: 'للتعاون الإعلامي والتغطيات',
         form_name: 'الاسم', form_email: 'البريد الإلكتروني', form_msg: 'الرسالة', form_submit: 'إرسال',
-        copyright: '© 2025 سلمان المطيري. قالب من <strong>موقعك</strong> – Mawqeak'
+        copyright: '© 2026 سلمان المطيري. قالب من <strong>موقعك</strong> – Mawqeak'
     },
     en: {
         page_title: 'Salman Al-Mutairi | Content Creator',
@@ -43,7 +43,7 @@ const translations = {
         stats_title: 'Account Statistics', stats_sub: 'My social media numbers',
         contact_title: 'Contact Me', contact_sub: 'For media collaboration',
         form_name: 'Name', form_email: 'Email', form_msg: 'Message', form_submit: 'Send',
-        copyright: '© 2025 Salman Al-Mutairi. Template by <strong>Mawqeak</strong>'
+        copyright: '© 2026 Salman Al-Mutairi. Template by <strong>Mawqeak</strong>'
     }
 };
 let currentLang = 'ar';
